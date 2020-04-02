@@ -1,0 +1,21 @@
+* {
+}
+p {
+  color: green;
+}
+.for_content {
+  color: red;
+  font-size: 36px;
+}
+.for_img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+button {
+  display: block;
+}
+div {
+  border: 5px solid blue;
+  text-align: center;
+}
